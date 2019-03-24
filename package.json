@@ -1,0 +1,32 @@
+{
+  "name": "nep",
+  "version": "1.0.0",
+  "description": "Node Express Passport",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bignotto/NEP.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "passport",
+    "login",
+    "user"
+  ],
+  "author": "Thiago Bignotto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bignotto/NEP/issues"
+  },
+  "homepage": "https://github.com/Bignotto/NEP#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "passport": "^0.4.0",
+    "pug": "^2.0.3"
+  }
+}
